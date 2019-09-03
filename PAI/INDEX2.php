@@ -5,7 +5,9 @@
     <title>śnipet</title>
   </head>
   <body>
+      <?php
 
+       ?>
     </div>
   </body>
 </html>
