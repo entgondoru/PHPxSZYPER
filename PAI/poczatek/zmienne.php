@@ -9,6 +9,9 @@
      $name = 'janusz';
      $_name1 = 'janusz';
      $name = 'janusz';
+
+     echo "$name";
+     echo '$name';
      ?>
   </body>
 </html>
